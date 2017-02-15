@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 shafa.maharani StafCS 4096 Feb 15 23:59 .
+drwx--x--x  3 shafa.maharani StafCS 4096 Feb 15 23:13 ..
+drwxr-xr-x  8 shafa.maharani StafCS 4096 Feb 15 23:56 .git
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:28 key
+-rw-r--r--  1 shafa.maharani StafCS    0 Feb 15 23:59 lab01.txt
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:28 log
+-rw-r--r--  1 shafa.maharani StafCS    7 Feb 15 23:13 README.md
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:38 sandbox
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:54 week00
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:25 week01
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:25 week02
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:26 week03
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:26 week04
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:26 week05
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:27 week06
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:27 week07
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:27 week08
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:27 week09
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:28 week10
+drwxr-xr-x  2 shafa.maharani StafCS 4096 Feb 15 23:29 xtra
+/home/fasilkom/mahasiswa/s/shafa.maharani/os171/week01
