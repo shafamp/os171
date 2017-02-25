@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/s/shafa.maharani/.gnupg/pubring.gpg
+------------------------------------------------------------
+pub   4096R/2EDB2C42 2017-02-25 [expires: 2017-08-24]
+uid                  shafa maharani pradinar ("i want to be an expert in OS and other IT field") <shafa.maharani@ui.ac.id>
+sub   4096R/8DB0C59E 2017-02-25 [expires: 2017-08-24]
+
